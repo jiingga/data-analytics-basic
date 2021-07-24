@@ -7,4 +7,4 @@
 - **Linear Regression Demo**: [Cancer-Filtered.csv](https://github.com/jiingga/data-analytics-basic/blob/main/Cancer-Filtered.csv)
 - **Assignment 4**: [Fish-Filtered.csv](https://github.com/jiingga/data-analytics-basic/blob/main/Fish-Filtered.csv)
 - **Logistic Regression Demo**: [CreditCard-Churner-Filtered.xlsx](https://github.com/jiingga/data-analytics-basic/blob/main/CreditCard-Churner-Filtered.xlsx)
-- **Text Analytics Demo**: [clothing_review.ipynb](https://colab.research.google.com/drive/1KTXumHjo7_aZNEaZFC0wHqZn5MHoCTGf?usp=sharing)
+- **Text Analytics Demo**: [simple_text_analytics.ipynb](https://colab.research.google.com/drive/1KTXumHjo7_aZNEaZFC0wHqZn5MHoCTGf?usp=sharing)
