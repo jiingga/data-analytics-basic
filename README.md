@@ -8,3 +8,4 @@
 - **Assignment 4**: [Fish-Filtered.csv](https://github.com/jiingga/data-analytics-basic/blob/main/Fish-Filtered.csv)
 - **Logistic Regression Demo**: [CreditCard-Churner-Filtered.xlsx](https://github.com/jiingga/data-analytics-basic/blob/main/CreditCard-Churner-Filtered.xlsx)
 - **Text Analytics Demo**: [simple_text_analytics.ipynb](https://colab.research.google.com/drive/1KTXumHjo7_aZNEaZFC0wHqZn5MHoCTGf?usp=sharing)
+- **Product Recommendation Demo**: [simple_product_recommender.ipynb](https://colab.research.google.com/drive/15vrSRb0I4Wo4h7zJKl4uB2G9Vmt9zXyQ?usp=sharing)
